@@ -5,7 +5,12 @@ to remove a folder as git repository :
 rm -rf .git
 
 this is changed
+<<<<<<< HEAD
 
+=======
+2
+master
+>>>>>>> bcc2b66 (Initial commit)
 
 
 git status

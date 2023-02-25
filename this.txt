@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sdkj gfkgjklgjl
+=======
+sdkj gfkgjklgjl
+master
+>>>>>>> bcc2b66 (Initial commit)
